@@ -1,3 +1,5 @@
+> Tamanho: ± 216 MB
+
 #### Geração de mundo
 • BetterCaves-1.16.3-1.0.6  
 • Better-End-Mod-1.16.4  
