@@ -2,7 +2,7 @@
 
 ### Faça o Download  
 
-### Inicie o launcher (executável) pelo arquivo com a extensão `.bat`  
+### Inicie o launcher _(executável)_ pelo arquivo com a extensão `.bat`  
 ![imagem1](https://i.imgur.com/JWDS7Hp.png)  
 Se tiver conta original abra pelo arquivo `Inicializador Original`  
 É recomendado iniciar pelo arquivo `Inicializador Pirata` que usa o launcher [TLauncher](https://tlauncher.org)  
