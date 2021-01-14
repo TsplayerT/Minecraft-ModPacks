@@ -6,7 +6,7 @@
    Legenda:  
 > - [ ] Mod sem atualização  
 > - [x] Mod com atualização verificada  
-> ~~ModNameItalic~~ Mod possivelmente será removido  
+> ~~NomeModTachado~~ Mod possivelmente será removido  
   
 #### Geração de mundo
 - [ ] ~~[allthemodium-1.1.19-1.16.4-35.1.4](https://www.curseforge.com/minecraft/mc-mods/allthemodium)~~  
