@@ -6,11 +6,11 @@
    Legenda:  
 > - [ ] Mod sem atualização  
 > - [x] Mod com atualização verificada  
-> _ModNameItalic_ Mod possivelmente será removido  
+> ~~ModNameItalic~~ Mod possivelmente será removido  
   
 #### Geração de mundo
-- [ ] _[allthemodium-1.1.19-1.16.4-35.1.4](https://www.curseforge.com/minecraft/mc-mods/allthemodium)_  
-- [ ] _[alltheores-0.1.13-1.16.3-34.1.0](https://www.curseforge.com/minecraft/mc-mods/ato)_  
+- [ ] ~~[allthemodium-1.1.19-1.16.4-35.1.4](https://www.curseforge.com/minecraft/mc-mods/allthemodium)~~  
+- [ ] ~~[alltheores-0.1.13-1.16.3-34.1.0](https://www.curseforge.com/minecraft/mc-mods/ato)~~  
 - [ ] [BetterCaves-1.16.3-1.0.6](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)  
 - [ ] [BetterMineshafts-Forge-1.16.3-1.1.1](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)  
 - [x] [BiomesOPlenty-1.16.4-13.0.0.425-universal](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)   
@@ -42,7 +42,7 @@
 #### Interface
 - [ ] [AppleSkin-mc1.16.2-forge-1.0.14](https://www.curseforge.com/minecraft/mc-mods/AppleSkin)  
 - [ ] [ClientTweaks_1.16.3-5.2.0](https://www.curseforge.com/minecraft/mc-mods/Client-Tweaks)  
-- [ ] _[CraftingTweaks_1.16.3-12.2.0](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)_  
+- [ ] ~~[CraftingTweaks_1.16.3-12.2.0](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)~~  
 - [x] [DynamicSurroundings-1.16.4-4.0.3.1](https://www.curseforge.com/minecraft/mc-mods/Dynamic-Surroundings)  
 - [ ] [EnhancedVisuals_v1.3.20_mc1.16.4](https://www.curseforge.com/minecraft/mc-mods/EnhancedVisuals)  
 - [ ] [FastWorkbench-1.16.3-4.4.1](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)  
@@ -88,7 +88,7 @@
 - [ ] [Ding-1.16.3-1.2.0](https://www.curseforge.com/minecraft/mc-mods/Ding)  
 - [x] [EnigmaticLegacy-2.10.1](https://www.curseforge.com/minecraft/mc-mods/Enigmatic-Legacy)  
 - [ ] [FastLeafDecay-v25](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)  
-- [ ] _[ftbessentials-1603.1.0.11](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)_  
+- [ ] ~~[ftbessentials-1603.1.0.11](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)~~  
 - [ ] [globalxp-1.16.3-v1.4.15](https://www.curseforge.com/minecraft/mc-mods/global-xp)  
 - [x] [Mantle-1.16.4-1.6.43](https://www.curseforge.com/minecraft/mc-mods/Mantle)  
 - [x] [Xaeros_Minimap_20.30.1_Forge_1.16.4](https://www.curseforge.com/minecraft/mc-mods/Xaeros-Minimap)  
