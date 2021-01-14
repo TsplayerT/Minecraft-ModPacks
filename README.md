@@ -101,6 +101,7 @@
 • [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)  
 • [Survive](https://www.curseforge.com/minecraft/mc-mods/survive)  
 • [Miners Advantage](https://www.curseforge.com/minecraft/mc-mods/minersadvantage)  
+• [World Blender](https://www.curseforge.com/minecraft/mc-mods/worldblender)  
   
 #### Removidos  
 • [Aquaculture-1.16.4-2.1.7](https://www.curseforge.com/minecraft/mc-mods/aquaculture)  
