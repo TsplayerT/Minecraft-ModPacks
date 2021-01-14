@@ -37,7 +37,7 @@
 - [ ] [Apotheosis-1.16.3-4.4.1](https://www.curseforge.com/minecraft/mc-mods/apotheosis)  
 - [ ] [Botania-1.16.4-410](https://www.curseforge.com/minecraft/mc-mods/botania)  
 - [x] [eidolon-0.2.4](https://www.curseforge.com/minecraft/mc-mods/eidolon)  
-- [ ] [NaturesAura-33.2(https://www.curseforge.com/minecraft/mc-mods/Natures-Aura)  
+- [ ] [NaturesAura-33.2](https://www.curseforge.com/minecraft/mc-mods/Natures-Aura)  
   
 #### Interface
 - [ ] [AppleSkin-mc1.16.2-forge-1.0.14](https://www.curseforge.com/minecraft/mc-mods/AppleSkin)  
@@ -66,7 +66,7 @@
 - [ ] [Kiwi-1.16.3-3.4.1](https://www.curseforge.com/minecraft/mc-mods/Kiwi)  
 - [ ] [Lollipop-1.16.4-3.2.3](https://www.curseforge.com/minecraft/mc-mods/Lollipop) 
 - [ ] [Patchouli-1.16.4-48](https://www.curseforge.com/minecraft/mc-mods/Patchouli)  
-- [ ] [Placebo-1.16.3-4.3.3(https://www.curseforge.com/minecraft/mc-mods/Placebo)  
+- [ ] [Placebo-1.16.3-4.3.3](https://www.curseforge.com/minecraft/mc-mods/Placebo)  
 - [x] [structure-gel-api-1.16.4-1.7.2](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)  
 - [x] [titanium-1.16.4-3.2.3](https://www.curseforge.com/minecraft/mc-mods/titanium)  
   
