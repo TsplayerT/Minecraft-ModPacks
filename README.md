@@ -45,7 +45,6 @@
 - [ ] ~~[CraftingTweaks_1.16.3-12.2.0](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)~~  
 - [x] [DynamicSurroundings-1.16.4-4.0.3.1](https://www.curseforge.com/minecraft/mc-mods/Dynamic-Surroundings)  
 - [ ] [EnhancedVisuals_v1.3.20_mc1.16.4](https://www.curseforge.com/minecraft/mc-mods/EnhancedVisuals)  
-- [ ] [FastWorkbench-1.16.3-4.4.1](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)  
 - [ ] [firstaid-1.9.4](https://www.curseforge.com/minecraft/mc-mods/first-aid)  
 - [ ] [invtweaks-1.16.4-1.0.1](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)  
 - [x] [jei-1.16.4-7.6.0.62](https://www.curseforge.com/minecraft/mc-mods/jei)  
@@ -56,12 +55,13 @@
   
 #### Correções
 - [ ] [AttributeFix-1.16.4-9.0.2](https://www.curseforge.com/minecraft/mc-mods/AttributeFix)  
+- [ ] ~~[FastWorkbench-1.16.3-4.4.1](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)~~  
 - [x] [randompatches-1.16.4-1.22.1.11](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)  
 - [ ] ~~[ReAuth-1.16-Forge-3.9.3](https://www.curseforge.com/minecraft/mc-mods/ReAuth)~~  
   
 #### Requisito
 - [ ] [CreativeCore-1.16.4](https://www.curseforge.com/minecraft/mc-mods/CreativeCore)  
-- [ ] [Cucumber-1.16.4-4.1.5](https://www.curseforge.com/minecraft/mc-mods/Cucumber)  
+- [ ] ~~[Cucumber-1.16.4-4.1.5](https://www.curseforge.com/minecraft/mc-mods/Cucumber)~~  
 - [x] [curios-forge-1.16.4-4.0.3.0](https://www.curseforge.com/minecraft/mc-mods/curios)  
 - [ ] [Kiwi-1.16.3-3.4.1](https://www.curseforge.com/minecraft/mc-mods/Kiwi)  
 - [ ] [Lollipop-1.16.4-3.2.3](https://www.curseforge.com/minecraft/mc-mods/Lollipop) 
@@ -75,7 +75,7 @@
 - [ ] [pamhc2foodcore-1.16.3-1.0.0](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)  
 - [ ] [pamhc2foodextended-1.16.3-1.0.0](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)  
 - [ ] [pamhc2trees-1.16.3-1.0.0](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)  
-- [ ] [PickleTweaks-1.16.4-5.1.4](https://www.curseforge.com/minecraft/mc-mods/Pickle-Tweaks)  
+- [ ] ~~[PickleTweaks-1.16.4-5.1.4](https://www.curseforge.com/minecraft/mc-mods/Pickle-Tweaks)~~  
   
 #### Criaturas
 - [ ] [MutantBeasts-1.16.4-1.1.3](https://www.curseforge.com/minecraft/mc-mods/Mutant-Beasts)  
