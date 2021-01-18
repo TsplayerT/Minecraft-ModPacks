@@ -37,11 +37,10 @@
 - [ ] [Apotheosis-1.16.3-4.4.1](https://www.curseforge.com/minecraft/mc-mods/apotheosis)  
 - [ ] [Botania-1.16.4-410](https://www.curseforge.com/minecraft/mc-mods/botania)  
 - [x] [eidolon-0.2.4](https://www.curseforge.com/minecraft/mc-mods/eidolon)  
-- [ ] [NaturesAura-33.2](https://www.curseforge.com/minecraft/mc-mods/Natures-Aura)  
+- [x] [NaturesAura-33.2](https://www.curseforge.com/minecraft/mc-mods/Natures-Aura)  
   
 #### Interface
 - [ ] [AppleSkin-mc1.16.2-forge-1.0.14](https://www.curseforge.com/minecraft/mc-mods/AppleSkin)  
-- [ ] [ClientTweaks_1.16.3-5.2.0](https://www.curseforge.com/minecraft/mc-mods/Client-Tweaks)  
 - [ ] ~~[CraftingTweaks_1.16.3-12.2.0](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)~~  
 - [x] [DynamicSurroundings-1.16.4-4.0.3.1](https://www.curseforge.com/minecraft/mc-mods/Dynamic-Surroundings)  
 - [ ] [EnhancedVisuals_v1.3.20_mc1.16.4](https://www.curseforge.com/minecraft/mc-mods/EnhancedVisuals)  
@@ -51,10 +50,11 @@
 - [ ] [jeiintegration_1.16.4-6.1.1.11](https://www.curseforge.com/minecraft/mc-mods/jei-integration)  
 - [x] [JustEnoughResources-1.16.4-0.12.0.103](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)  
 - [ ] [MouseTweaks-2.13-mc1.16.2](https://www.curseforge.com/minecraft/mc-mods/Mouse-Tweaks)  
-- [x] [theoneprobe-1.16-3.0.6](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) 
+- [x] ~~[theoneprobe-1.16-3.0.6](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)~~ 
   
 #### Correções
-- [ ] [AttributeFix-1.16.4-9.0.2](https://www.curseforge.com/minecraft/mc-mods/AttributeFix)  
+- [x] [AttributeFix-1.16.4-9.0.2](https://www.curseforge.com/minecraft/mc-mods/AttributeFix)  
+- [ ] [ClientTweaks_1.16.3-5.2.0](https://www.curseforge.com/minecraft/mc-mods/Client-Tweaks)  
 - [ ] ~~[FastWorkbench-1.16.3-4.4.1](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)~~  
 - [x] [randompatches-1.16.4-1.22.1.11](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)  
 - [ ] ~~[ReAuth-1.16-Forge-3.9.3](https://www.curseforge.com/minecraft/mc-mods/ReAuth)~~  
@@ -80,7 +80,7 @@
 #### Criaturas
 - [ ] [MutantBeasts-1.16.4-1.1.3](https://www.curseforge.com/minecraft/mc-mods/Mutant-Beasts)  
 - [ ] [pandoras_creatures-1.16.3-2.0.1](https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures)  
-- [ ] ~~[whisperwoods-1.16.4-2.0.0](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)~~  
+- [ ] [whisperwoods-1.16.4-2.0.0](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)  
 - [ ] [Wither-Skeleton-Tweaks-1.16.3-5.2.1](https://www.curseforge.com/minecraft/mc-mods/Wither-Skeleton-Tweaks)  
   
 #### Outros
