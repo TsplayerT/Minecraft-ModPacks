@@ -14,10 +14,10 @@
 - [ ] [BetterCaves-1.16.3-1.0.6](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)  
 - [ ] [BetterMineshafts-Forge-1.16.3-1.1.1](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)  
 - [x] [BiomesOPlenty-1.16.4-13.0.0.425-universal](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)   
-- [ ] [dungeons-plus-1.16.4-1.1.0](https://www.curseforge.com/minecraft/mc-mods/dungeons-plus)  
-- [ ] [extcaves-2.4](https://www.curseforge.com/minecraft/mc-mods/extended-caves)  
+- [x] [dungeons-plus-1.16.4-1.1.0](https://www.curseforge.com/minecraft/mc-mods/dungeons-plus)  
+- [ ] ~~[extcaves-2.4](https://www.curseforge.com/minecraft/mc-mods/extended-caves)~~  
 - [ ] [flatbedrock-1.16.4-1.1.6](https://www.curseforge.com/minecraft/mc-mods/flat-bedrock)  
-- [ ] [repurposed_structures-1.16.4-2.3.3](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)  
+- [x] [repurposed_structures-1.16.4-2.3.3](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures)  
 - [x] [SereneSeasons-1.16.4-4.0.0.82-universal](https://www.curseforge.com/minecraft/mc-mods/Serene-Seasons)  
 - [x] [SnowRealMagic-1.16.3-2.2.2](https://www.curseforge.com/minecraft/mc-mods/Snow-Real-Magic)  
 - [x] [TerraForged-1.16.4-0.2.0-BETA-6](https://www.curseforge.com/minecraft/mc-mods/terraforged)  
@@ -57,7 +57,7 @@
 #### Correções
 - [ ] [AttributeFix-1.16.4-9.0.2](https://www.curseforge.com/minecraft/mc-mods/AttributeFix)  
 - [x] [randompatches-1.16.4-1.22.1.11](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)  
-- [ ] [ReAuth-1.16-Forge-3.9.3](https://www.curseforge.com/minecraft/mc-mods/ReAuth)  
+- [ ] ~~[ReAuth-1.16-Forge-3.9.3](https://www.curseforge.com/minecraft/mc-mods/ReAuth)~~  
   
 #### Requisito
 - [ ] [CreativeCore-1.16.4](https://www.curseforge.com/minecraft/mc-mods/CreativeCore)  
@@ -80,7 +80,7 @@
 #### Criaturas
 - [ ] [MutantBeasts-1.16.4-1.1.3](https://www.curseforge.com/minecraft/mc-mods/Mutant-Beasts)  
 - [ ] [pandoras_creatures-1.16.3-2.0.1](https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures)  
-- [ ] [whisperwoods-1.16.4-2.0.0](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)  
+- [ ] ~~[whisperwoods-1.16.4-2.0.0](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)~~  
 - [ ] [Wither-Skeleton-Tweaks-1.16.3-5.2.1](https://www.curseforge.com/minecraft/mc-mods/Wither-Skeleton-Tweaks)  
   
 #### Outros
@@ -89,7 +89,7 @@
 - [x] [EnigmaticLegacy-2.10.1](https://www.curseforge.com/minecraft/mc-mods/Enigmatic-Legacy)  
 - [ ] [FastLeafDecay-v25](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)  
 - [ ] ~~[ftbessentials-1603.1.0.11](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)~~  
-- [ ] [globalxp-1.16.3-v1.4.15](https://www.curseforge.com/minecraft/mc-mods/global-xp)  
+- [ ] ~~[globalxp-1.16.3-v1.4.15](https://www.curseforge.com/minecraft/mc-mods/global-xp)~~  
 - [x] [Mantle-1.16.4-1.6.43](https://www.curseforge.com/minecraft/mc-mods/Mantle)  
 - [x] [Xaeros_Minimap_20.30.1_Forge_1.16.4](https://www.curseforge.com/minecraft/mc-mods/Xaeros-Minimap)  
   
