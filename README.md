@@ -1,1 +1,12 @@
-Usado para criar novos Mod Packs
+# Descontinuado  
+  
+---  
+  
+### Mods  
+  
+• Botania  
+• Magic Crops  
+• Necromancy  
+• ThaumCraft  
+• MystCraft   
+• Blood Magic   
