@@ -6,7 +6,7 @@
 Caso não utilize a ferramenta [Git](https://git-scm.com) pressione em `Download ZIP`  
 
 ### • Inicie o launcher _(executável)_ pelo arquivo com a extensão `.bat`  
-![imagem3](https://i.imgur.com/a/dQlpG9o.png)  
+![imagem3](https://i.imgur.com/dQlpG9o.png)  
 O launcher é o [TLauncher](https://tlauncher.org)  
 
 ### • Não esqueça de colocar seu nome de usuário _(nickname)_ e a _versão do Minecraft_ com o [Forge](http://files.minecraftforge.net)[OptiFine](https://optifine.net/) de acordo com o ModPack da `branch` escolhida  
