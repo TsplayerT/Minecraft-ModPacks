@@ -1,0 +1,3 @@
+[svn]
+# push empty directory removals back to svn as directory deletes
+rmdir = true
