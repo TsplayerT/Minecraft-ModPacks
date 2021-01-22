@@ -1,0 +1,269 @@
+decidir depois
+
+	Survive
+	http://www.9minecraft.net/survive-mod/
+
+	Miner’s Advantage
+	http://www.9minecraft.net/miners-advantage-mod/
+	
+------------------------------------------------------------------
+
+1.15.2
+
+☑️ Crate
+http://www.9minecraft.net/create-mod/
+
+☑️ TerraForged
+http://www.9minecraft.net/terraforged-mod/
+
+✳️ Falling Tree
+http://www.9minecraft.net/falling-tree-mod/
+
+☑️ Immersive Engineering
+http://www.9minecraft.net/immersive-engineering-mod/
+
+❎ Alchemistry 
+http://www.9minecraft.net/alchemistry-mod/
+
+☑️ Serene Seasons
+http://www.9minecraft.net/serene-seasons-mod/
+
+☑️ Pam’s HarvestCraft 2
+http://www.9minecraft.net/pams-harvestcraft-2-crops-mod/
+
+☑️ Dungeons Plus
+http://www.9minecraft.net/dungeons-plus-mod/
+
+☑️ Waila Harvestability
+http://www.9minecraft.net/waila-harvestability-mod/
+
+☑️ Mutant Beasts
+http://www.9minecraft.net/mutant-beasts-mod/
+
+☑️ The Legend of Herobrine
+http://www.9minecraft.net/the-legend-of-herobrine-mod/
+
+☑️ Dungeons and Artifacts
+http://www.9minecraft.net/dungeons-and-artifacts-mod/
+
+✳️ Industrial Foregoing
+http://www.9minecraft.net/industrial-foregoing-mod/
+
+☑️ The Abyss Project
+http://www.9minecraft.net/the-abyss-project-mod/
+
+❎ Terrestria 
+http://www.9minecraft.net/terrestria-mod/
+
+❎ Dynamic FPS
+http://www.9minecraft.net/dynamic-fps-mod/
+
+☑️ Pam’s HarvestCraft 2
+http://www.9minecraft.net/pams-harvestcraft-2-trees-mod/
+
+☑️ Immersive Portals
+http://www.9minecraft.net/immersive-portals-mod/
+
+✳️ Unforgiving Void
+http://www.9minecraft.net/unforgiving-void-mod/
+
+✳️ Diggus Maximus
+https://guide-minecraft.com/mods/diggus-maximus.html
+
+❎ Phosphor
+http://www.9minecraft.net/phosphor-mod/
+
+☑️ The Conjurer
+http://www.9minecraft.net/the-conjurer-mod/
+
+☑️ Tetra 
+http://www.9minecraft.net/tetra-mod/
+
+✳️ Fruit Trees
+http://www.9minecraft.net/fruit-trees-mod/
+
+☑️ Valhelsia Structures
+http://www.9minecraft.net/valhelsia-structures-mod/
+
+☑️ Snow! Real Magic!
+http://www.9minecraft.net/snow-real-magic-mod/
+
+☑️ First Aid
+http://www.9minecraft.net/first-aid-mod/
+
+☑️ Enhanced Visuals
+http://www.9minecraft.net/enhanced-visuals-mod/
+
+✳️ FPS Reducer
+http://www.9minecraft.net/fps-reducer-mod/
+
+☑️ Ambient Sounds
+http://www.9minecraft.net/ambient-sounds-mod/
+
+☑️ CC Tweaked
+http://www.9minecraft.net/cc-tweaked-mod/
+
+☑️ Just Enough Resources
+http://www.9minecraft.net/just-enough-resources-mod/
+
+☑️ JEI Integration
+http://www.9minecraft.net/jei-integration-mod/
+
+❎ Carpenter’s Blocks
+http://www.9minecraft.net/carpenters-blocks-mod/
+
+☑️ Xenoclus Two
+http://www.9minecraft.net/xenoclus-two-mod/
+
+❎ FancyMenu 
+http://www.9minecraft.net/fancymenu-mod/
+
+☑️ Xaero’s World Map
+http://www.9minecraft.net/world-map-mod/
+
+☑️ Morpheus 
+http://www.9minecraft.net/morpheus-mod/
+
+☑️ Biomes O’ Plenty
+http://www.9minecraft.net/biomes-o-plenty-mod/
+
+☑️ Applied Energistics 2 
+http://www.9minecraft.net/applied-energistics-2-mod/
+
+☑️ OptiFine HD
+http://www.9minecraft.net/optifine-hd/
+
+☑️ Doggy Talents
+http://www.9minecraft.net/doggy-talents-mod/
+
+☑️ Basic Nether Ores
+http://www.9minecraft.net/basic-nether-ores-mod/
+
+☑️ Repurposed Structures
+http://www.9minecraft.net/repurposed-structures-mod/
+
+☑️ Chronicles 
+http://www.9minecraft.net/chronicles-mod/
+
+☑️ Curios API
+http://www.9minecraft.net/curios-api/
+
+☑️ Enigmatic Legacy
+http://www.9minecraft.net/enigmatic-legacy-mod/
+
+☑️ Powah 
+http://www.9minecraft.net/powah-mod/
+
+☑️ World Blender
+http://www.9minecraft.net/world-blender-mod/
+
+☑️ Terridus 
+http://www.9minecraft.net/terridus-mod/
+
+☑️ Wendigonism 
+http://www.9minecraft.net/wendigonism-mod/
+
+☑️ Naturally Charged Creepers
+http://www.9minecraft.net/naturally-charged-creepers-mod/
+
+☑️ AI Improvements
+http://www.9minecraft.net/ai-improvements-mod/
+
+☑️ Mantle 
+http://www.9minecraft.net/mantle-mod/
+
+☑️ Towers of The Wild
+http://www.9minecraft.net/towers-of-the-wild-mod/
+
+☑️ Pandoras Creatures
+http://www.9minecraft.net/pandoras-creatures-mod/
+
+❎ Cave Biomes
+http://www.9minecraft.net/cave-biomes-mod/
+
+☑️ The Dead Sea
+http://www.9minecraft.net/the-dead-sea-mod/
+
+☑️ Mushroom Quest
+http://www.9minecraft.net/mushroom-quest-mod/
+
+☑️ Lithium 
+http://www.9minecraft.net/lithium-mod/
+
+☑️ Hwyla
+http://www.9minecraft.net/hwyla-mod/
+
+☑️ Zombie Extreme
+http://www.9minecraft.net/zombie-extreme-mod/
+
+☑️ Dynamic World
+http://www.9minecraft.net/dynamic-world-mod/
+
+☑️ Dooglamoo Worlds
+http://www.9minecraft.net/dooglamoo-worlds-mod/
+
+☑️ Rotten Creatures
+http://www.9minecraft.net/rotten-creatures-mod/
+
+☑️ Rough Mobs Revamped
+http://www.9minecraft.net/rough-mobs-revamped-mod/
+
+☑️ Atmospheric 
+http://www.9minecraft.net/atmospheric-mod/
+
+☑️ Future MC
+http://www.9minecraft.net/future-mc-mod/
+
+☑️ Voyage 
+http://www.9minecraft.net/voyage-mod/
+
+☑️ Ultra Amplified Dimension
+http://www.9minecraft.net/ultra-amplified-dimension-mod/
+
+--------------------------------------------------------------
+
+1.12.2
+
+Primative Mobs
+http://www.9minecraft.net/primitive-mobs-mod/
+
+The Twilight Forest
+http://www.9minecraft.net/the-twilight-forest-mod/
+
+Bewitchment 
+http://www.9minecraft.net/bewitchment-mod/
+
+Random Things
+https://7minecraft.net/random-things-mod/
+
+TerraFirmaCraft
+https://www.curseforge.com/minecraft/mc-mods/tfcraft
+
+The Betweenlands
+http://www.9minecraft.net/the-betweenlands-mod/
+
+Thaumcraft 
+http://www.9minecraft.net/thaumcraft-mod/
+
+Forestry 
+http://www.9minecraft.net/forestry-mod/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -34,7 +34,7 @@
 			minHeight = 10
 			#
 			#Range: 0.0 ~ 1.0
-			clusterChance = 0.03125
+			clusterChance = 0.00781
 			#
 			#Range: > 0
 			maxHeight = 30
@@ -43,7 +43,7 @@
 			enable = true
 			#
 			#Range: > 0
-			clusterSize = 128
+			clusterSize = 16
 
 		[worldgen.v1.zinc_ore]
 			#
@@ -85,7 +85,7 @@
 			minHeight = 30
 			#
 			#Range: 0.0 ~ 1.0
-			clusterChance = 0.03125
+			clusterChance = 0.00781
 			#
 			#Range: > 0
 			maxHeight = 70
@@ -94,7 +94,7 @@
 			enable = true
 			#
 			#Range: > 0
-			clusterSize = 128
+			clusterSize = 16
 
 		[worldgen.v1.dolomite]
 			#
@@ -102,7 +102,7 @@
 			minHeight = 20
 			#
 			#Range: 0.0 ~ 1.0
-			clusterChance = 0.015625
+			clusterChance = 0.002604
 			#
 			#Range: > 0
 			maxHeight = 70
@@ -111,7 +111,7 @@
 			enable = true
 			#
 			#Range: > 0
-			clusterSize = 128
+			clusterSize = 16
 
 		[worldgen.v1.copper_ore_ocean]
 			#
@@ -136,7 +136,7 @@
 			minHeight = 20
 			#
 			#Range: 0.0 ~ 1.0
-			clusterChance = 0.015625
+			clusterChance = 0.002604
 			#
 			#Range: > 0
 			maxHeight = 70
@@ -145,7 +145,7 @@
 			enable = true
 			#
 			#Range: > 0
-			clusterSize = 128
+			clusterSize = 16
 
 		[worldgen.v1.scoria]
 			#
@@ -153,7 +153,7 @@
 			minHeight = 0
 			#
 			#Range: 0.0 ~ 1.0
-			clusterChance = 0.03125
+			clusterChance = 0.00781
 			#
 			#Range: > 0
 			maxHeight = 10
@@ -162,5 +162,5 @@
 			enable = false
 			#
 			#Range: > 0
-			clusterSize = 128
+			clusterSize = 16
 

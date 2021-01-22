@@ -23,7 +23,7 @@ oldDeathpoints:false
 distance:1
 showCoords:true
 lockNorth:true
-zoom:3
+zoom:0
 minimapSize:0
 entityAmount:1
 chunkGrid:-1
@@ -80,10 +80,10 @@ hostileMobNames:0
 itemNames:0
 otherNames:0
 tamedMobNames:3
-showLightLevel:0
+showLightLevel:1
 renderLayerIndex:1
 crossDimensionalTp:true
-showTime:0
+showTime:1
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
