@@ -1,3 +1,3 @@
 set APPDATA=%~dp0\data
-"%~dp0\data\launcher.exe"
+"%~dp0\data\.minecraft\launcher.exe"
 exit
