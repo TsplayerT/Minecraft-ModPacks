@@ -1,0 +1,7 @@
+{
+  "inventory": {
+    "0:2": "thermalexpansion:satchel,1,0,{RepairCost:0,display:{Name:\"Muchilinha do Thanos\"},Color1:11691749,Inventory:{Slot2:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"patchouli:tutorial do iniciante\"},Damage:0s},Slot0:{ForgeCaps:{\"astralsorcery:cap_item_amulet_holder\":{}},id:\"techguns:pistol\",Count:1b,tag:{ammo:0s,ammovariant:\"default\",camo:0b},Damage:0s},Slot1:{id:\"techguns:itemshared\",Count:5b,Damage:11s}},Color0:11691749,Accessible:1b}",
+    "0:1": "harvestcraft:coffeeitem,13,0,{RepairCost:0,display:{Name:\"Cafézin Cremosim\"}}",
+    "0:0": "thermalfoundation:tool.axe_constantan,1,0,{ench:[{lvl:1s,id:34s},{lvl:1s,id:52s}],RepairCost:3,Quality:{},display:{Name:\"Criativo?\"}}"
+  }
+}

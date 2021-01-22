@@ -1,0 +1,132 @@
+{
+  "entries": [
+    {
+      "item": "netherbackport:netheriteingot|0",
+      "emc": 32000
+    },
+    {
+      "item": "nuclearcraft:uranium|8",
+      "emc": 4096
+    },
+    {
+      "item": "contenttweaker:treze|0",
+      "emc": 13000
+    },
+    {
+      "item": "tp:wub_ingot|0",
+      "emc": 512
+    },
+    {
+      "item": "tconstruct:ingots|4",
+      "emc": 816
+    },
+    {
+      "item": "tconstruct:ingots|3",
+      "emc": 408
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 36400
+    },
+    {
+      "item": "twilightforest:ironwood_ingot|0",
+      "emc": 648
+    },
+    {
+      "item": "twilightforest:fiery_ingot|0",
+      "emc": 1296
+    },
+    {
+      "item": "twilightforest:steeleaf_ingot|0",
+      "emc": 337
+    },
+    {
+      "item": "twilightforest:knightmetal_ingot|0",
+      "emc": 2592
+    },
+    {
+      "item": "thebetweenlands:octine_ingot|0",
+      "emc": 512
+    },
+    {
+      "item": "thebetweenlands:items_misc|11",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:ingot|3",
+      "emc": 996
+    },
+    {
+      "item": "mekanism:ingot|0",
+      "emc": 8868
+    },
+    {
+      "item": "industrialforegoing:pink_slime_ingot|0",
+      "emc": 288
+    },
+    {
+      "item": "galacticraftplanets:item_basic_asteroids|0",
+      "emc": 35680
+    },
+    {
+      "item": "galacticraftplanets:item_basic_mars|2",
+      "emc": 17840
+    },
+    {
+      "item": "galacticraftcore:item_basic_moon|0",
+      "emc": 1024
+    },
+    {
+      "item": "extrautils2:ingredients|17",
+      "emc": 17664
+    },
+    {
+      "item": "extrautils2:ingredients|12",
+      "emc": 3012
+    },
+    {
+      "item": "extrautils2:ingredients|11",
+      "emc": 2880
+    },
+    {
+      "item": "randomthings:ingredient|2",
+      "emc": 256
+    },
+    {
+      "item": "botania:manaresource|5",
+      "emc": 17840
+    },
+    {
+      "item": "bewitchment:cold_iron_ingot|0",
+      "emc": 596
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 0
+    },
+    {
+      "item": "extendedcrafting:singularity|35",
+      "emc": 327600000
+    },
+    {
+      "item": "extendedcrafting:singularity|26",
+      "emc": 630000
+    },
+    {
+      "item": "minecraft:coal|0",
+      "emc": 32
+    },
+    {
+      "item": "thermalfoundation:material|768",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:coal_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:spinachitem|0",
+      "emc": 4
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+
+//Sets if the mod should print documentation.
+printDocumentation(false)
+
+//Sets the Topography WorldType as default
+setAsDefaultWorldType()
+
+overworld = registerPreset("Overworld Padrão", "images/Overworld", "Geração padrão do Ultimato! Aproveite :)")
+overworld.registerDimension(43, "examples/Overworld")

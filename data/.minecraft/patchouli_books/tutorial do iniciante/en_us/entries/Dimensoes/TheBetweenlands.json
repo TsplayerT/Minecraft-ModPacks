@@ -1,0 +1,41 @@
+{
+    "name": "Betweenlands",
+    "icon": "thebetweenlands:swamp_talisman",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "text", 
+            "text": "Assim como na $(#7c824f)§oErebus§0$(), para adentrar a $(#3dad5b)§oBetweenland§0$() você precisará fazer uma tarefa primeiro! e essa tarefa em questão é localizar um §6círculo §6de §6drúidas§0 em um $(#3dad5b)pântano$()!$(br2)Não pense que eles são mega fraquinhos! eles podem acabar te matando só com §6dano de §6queda§0, então esteja preparado!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/BetweenCult.png"],
+            "border": "true",
+            "text": "Caso tenha dificuldade em achar um Pântano, sugiro usar o $(#33ad0a)Natures's Compass!$()"
+        },
+        {
+            "type": "spotlight",
+            "item": "thebetweenlands:swamp_talisman",
+            "title": "O Talismã do Pântano!",
+            "text": "Eventualmente $(#b0250c)matando esses druidas$() você irá obter $(#80a334)fragmentos$() deste talismã, combineos no $(#3dad5b)altar no centro do culto dos druidas$() para assim craftar o $(#3dad5b)Talismã completo!$()$(br2)Após obter o Talismã, posicione uma sappling em um local espaçoso e clique com o botão direito utilizando-o!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/BetweenPortal.png"],
+            "border": "true",
+            "text": "O Portal é uma árvore ENORME!$(br)Prepare bastante espaço!"
+        },
+        {
+            "type": "text", 
+            "text": "Ah, e não se preocupe, sua comida não vai estragar, sua armadura não vai corroer e no geral todas essas §5mecânicas§0 que podem ser §5irritantes§0 para inciantes estão §5desabilitadas§0! aproveite :)$(br2)Aliás, Sabia que a Betweenlands é um dos Mods mais bem trabalhados atualmente? dá uma olhada nessa dimensão com §5Mobs §5e §5Blocos §5em §5si §5lindamente §5trabalhados§0!"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/BetweenBonus.png"],
+            "border": "true",
+            "text": "É bem dificil mostrar apenas com uma imagem, entre na dimensão e você verá!"
+        }
+    ]
+}

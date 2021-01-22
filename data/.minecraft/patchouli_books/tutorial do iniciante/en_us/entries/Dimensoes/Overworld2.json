@@ -1,0 +1,28 @@
+{
+    "name": "Terra de Dragões",
+    "icon": "simplevoidworld:portal",
+    "category": "Dimensions",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "text",
+            "text": "A Terra de Dragões é basicamente uma dimensão que foi criada específicamente para este Modpack, com o intuito de aliviar o Lag no Overworld! Então, o que você encontrar aqui citado, é exclusivo desta dimensão e não poderá ser encontrado no Overworld, isso vale para as outras dimensões também viu! $(br2)§dMas o que tem de §ddiferente?"
+        },
+        {
+            "type": "text",
+            "text": "Esta dimensão nada mais é que uma exata cópia do Overworld (tão igual que dá até pra confundir), mas com a adição de todas as estruturas e Mobs do §c§oIceAndFire§0! $(br)Então espere encontrar Dragões, Gigantes, Hydras e outras criaturas mitológicas aqui! (Ah, e os Bosses do §3§oMowzieMobs§0 também spawnam aqui!)$(br2)Para Adentrar esta dimensão, simplesmente §9faça o Bloco do §9Portal e §9clique com o botão §9direito!"
+        },
+        {
+            "type": "crafting",
+            "recipe": "simplevoidworld:portal",
+            "title": "Crafting do Portal"
+        },
+        {
+            "type": "image",
+            "images": ["assets:guidebook/IceAndFire.png"],
+            "border": "true",
+            "text": "Cuidado com os Dragões..."
+        }
+    ]
+}
