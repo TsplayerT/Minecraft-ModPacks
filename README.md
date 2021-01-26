@@ -11,8 +11,8 @@
 #### Geração de mundo
 - [ ] ~~[allthemodium-1.1.19-1.16.4-35.1.4](https://www.curseforge.com/minecraft/mc-mods/allthemodium)~~  
 - [ ] ~~[alltheores-0.1.13-1.16.3-34.1.0](https://www.curseforge.com/minecraft/mc-mods/ato)~~  
-- [ ] [BetterCaves-1.16.3-1.0.6](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)  
-- [ ] [BetterMineshafts-Forge-1.16.3-1.1.1](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)  
+- [x] [BetterCaves-1.16.3-1.0.6](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)  
+- [x] [BetterMineshafts-Forge-1.16.3-1.1.1](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)  
 - [x] [BiomesOPlenty-1.16.4-13.0.0.425-universal](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)   
 - [x] [dungeons-plus-1.16.4-1.1.0](https://www.curseforge.com/minecraft/mc-mods/dungeons-plus)  
 - [ ] ~~[extcaves-2.4](https://www.curseforge.com/minecraft/mc-mods/extended-caves)~~  
@@ -27,7 +27,7 @@
 - [x] [cc-tweaked-1.16.4-1.95.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)  
 - [x] [create-mc1.16.3_v0.3a](https://www.curseforge.com/minecraft/mc-mods/create)  
 - [x] [engineersdecor-1.16.4-1.1.5](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)  
-- [ ] [ImmersiveEngineering-1.16.4-4.1.2-129](https://www.curseforge.com/minecraft/mc-mods/Immersive-Engineering)  
+- [x] [ImmersiveEngineering-1.16.4-4.1.2-129](https://www.curseforge.com/minecraft/mc-mods/Immersive-Engineering)  
 - [ ] [ImmersivePetroleum-1.16.4-3.1.0-2](https://www.curseforge.com/minecraft/mc-mods/Immersive-Petroleum)  
 - [x] [industrial-foregoing-1.16.4-3.2.6-c3ea663](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)  
 - [x] [Powah-1.16.4-2.3.6](https://www.curseforge.com/minecraft/mc-mods/Powah)  
