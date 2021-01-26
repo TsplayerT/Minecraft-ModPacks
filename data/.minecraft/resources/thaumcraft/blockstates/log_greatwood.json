@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y,variant=greatwood":	{ "model": "thaumcraft:log_greatwood" },
+		"axis=z,variant=greatwood":	{ "model": "thaumcraft:log_greatwood", "x": 90 },
+		"axis=x,variant=greatwood":	{ "model": "thaumcraft:log_greatwood", "x": 90, "y": 90 },
+		"axis=none,variant=greatwood":	{ "model": "thaumcraft:log_greatwood_bark" }
+	}
+}

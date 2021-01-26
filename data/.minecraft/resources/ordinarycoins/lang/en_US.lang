@@ -1,0 +1,14 @@
+item.ordinarycoins.coinBronze.name=Green Rupee
+item.ordinarycoins.coinSilver.name=Blue Rupee
+item.ordinarycoins.coinGold.name=Red Rupee
+item.ordinarycoins.coinPlatinum.name=Gold Rupee
+
+coins.stacked=Rupees stacked.
+coins.unstacked=Rupees unstacked.
+coins.repaired=Item repaired.
+coins.repair.disabled=Repairing by rupees is disabled.
+coins.cantrepair=Item is not damaged or can't be repaired.
+coins.notenough.bronze=You don't have enough rupees in your inventory. The repairing costs %d green rupees.
+coins.notenough.silver=You don't have enough rupees in your inventory. The repairing costs %d blue rupees.
+coins.notenough.gold=You don't have enough rupees in your inventory. The repairing costs %d red rupees.
+coins.notenough.platinum=You don't have enough rupees in your inventory. The repairing costs %d gold rupees.

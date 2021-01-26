@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y,variant=silverwood":	{ "model": "thaumcraft:log_silverwood" },
+		"axis=z,variant=silverwood":	{ "model": "thaumcraft:log_silverwood", "x": 90 },
+		"axis=x,variant=silverwood":	{ "model": "thaumcraft:log_silverwood", "x": 90, "y": 90 },
+		"axis=none,variant=silverwood":	{ "model": "thaumcraft:log_silverwood_bark" }
+	}
+}
