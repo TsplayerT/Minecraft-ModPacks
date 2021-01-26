@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:dirt:2"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS_IF_SELECTED",
+      "drops": [
+        {
+          "item": {
+            "items": [
+              "tfc:dirt/limestone"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

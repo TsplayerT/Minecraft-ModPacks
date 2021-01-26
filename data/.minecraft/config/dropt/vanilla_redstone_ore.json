@@ -1,0 +1,45 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:redstone_ore"
+          ]
+        },
+        "drops": {
+          "drops": [
+            "minecraft:redstone_ore"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 50
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:ore/cinnabar"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 50
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:ore/cryolite"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

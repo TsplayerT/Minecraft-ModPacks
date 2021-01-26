@@ -1,0 +1,124 @@
+{
+    "petrified_wood": {
+    "ore": "tfc:petrified_wood",
+    "width": 28,
+    "height": 36,
+    "shape": "cluster",
+    "rarity": 140,
+    "minimum_height": 90,
+    "maximum_height": 144,
+    "density": 60,
+    "base_rocks": [
+      "tfc:sedimentary"
+    ]
+  },
+  "selenite": {
+    "ore": "tfc:selenite",
+    "width": 16,
+    "height": 16,
+    "shape": "sphere",
+    "rarity": 120,
+    "minimum_height": 50,
+    "maximum_height": 144,
+    "density": 75,
+    "base_rocks": [
+      "tfc:sedimentary"
+    ]
+  },
+  "satinspar": {
+    "ore": "tfc:satinspar",
+    "width": 16,
+    "height": 16,
+    "shape": "sphere",
+    "rarity": 120,
+    "minimum_height": 50,
+    "maximum_height": 144,
+    "density": 75,
+    "base_rocks": [
+      "tfc:sedimentary"
+    ]
+  },
+  "jet": {
+    "ore": "tfc:jet",
+    "width": 28,
+    "height": 36,
+    "shape": "cluster",
+    "rarity": 140,
+    "minimum_height": 90,
+    "maximum_height": 144,
+    "density": 60,
+    "base_rocks": [
+      "tfc:sedimentary"
+    ]
+  },
+  "microcline": {
+    "ore": "tfc:microcline",
+    "width": 28,
+    "height": 36,
+    "shape": "cluster",
+    "rarity": 140,
+    "minimum_height": 5,
+    "maximum_height": 128,
+    "density": 60,
+    "base_rocks": [
+      "tfc:diorite"
+    ]
+  },
+  "serpentine": {
+    "ore": "tfc:serpentine",
+    "width": 20,
+    "height": 28,
+    "shape": "cluster",
+    "rarity": 140,
+    "minimum_height": 5,
+    "maximum_height": 144,
+    "density": 60,
+    "base_rocks": [
+      "tfc:metamorphic"
+    ]
+  },
+  "olivine": {
+    "ore": "tfc:olivine",
+    "width": 20,
+    "height": 24,
+    "shape": "cluster",
+    "rarity": 190,
+    "minimum_height": 5,
+    "maximum_height": 128,
+    "density": 60,
+    "base_rocks": [
+      "tfc:gabbro",
+      "tfc:basalt"
+    ]
+  },
+  "rutile": {
+    "ore": "tfc:rutile",
+    "loose": "tfc:rutile",
+    "width": 28,
+    "height": 36,
+    "shape": "cluster",
+    "rarity": 160,
+    "minimum_height": 5,
+    "maximum_height": 128,
+    "density": 70,
+    "base_rocks": [
+      "tfc:diorite",
+      "tfc:gabbro"
+    ]
+  },
+  "galena": {
+    "ore": "tfc:galena",
+    "loose": "tfc:galena",
+    "width": 28,
+    "height": 36,
+    "shape": "cluster",
+    "rarity": 120,
+    "minimum_height": 5,
+    "maximum_height": 144,
+    "density": 70,
+    "base_rocks": [
+      "tfc:granite",
+      "tfc:gneiss"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "names": [
+      "toughasnails:jelled_slime_helmet",
+      "toughasnails:jelled_slime_chestplate",
+      "toughasnails:jelled_slime_leggings",
+      "toughasnails:jelled_slime_boots"
+    ],
+    "modifier": -2
+  },
+  {
+    "names": [
+      "toughasnails:wool_helmet",
+      "toughasnails:wool_chestplate",
+      "toughasnails:wool_leggings",
+      "toughasnails:wool_boots"
+    ],
+    "modifier": 3
+  },
+  {
+    "names": [
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/copper",
+      "tfc:metal/chestplate/copper",
+      "tfc:metal/greaves/copper",
+      "tfc:metal/boots/copper"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/bronze",
+      "tfc:metal/chestplate/bronze",
+      "tfc:metal/greaves/bronze",
+      "tfc:metal/boots/bronze"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/bismuth_bronze",
+      "tfc:metal/chestplate/bismuth_bronze",
+      "tfc:metal/greaves/bismuth_bronze",
+      "tfc:metal/boots/bismuth_bronze"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/black_bronze",
+      "tfc:metal/chestplate/black_bronze",
+      "tfc:metal/greaves/black_bronze",
+      "tfc:metal/boots/black_bronze"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/wrought_iron",
+      "tfc:metal/chestplate/wrought_iron",
+      "tfc:metal/greaves/wrought_iron",
+      "tfc:metal/boots/wrought_iron"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/steel",
+      "tfc:metal/chestplate/steel",
+      "tfc:metal/greaves/steel",
+      "tfc:metal/boots/steel"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/black_steel",
+      "tfc:metal/chestplate/black_steel",
+      "tfc:metal/greaves/black_steel",
+      "tfc:metal/boots/black_steel"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/blue_steel",
+      "tfc:metal/chestplate/blue_steel",
+      "tfc:metal/greaves/blue_steel",
+      "tfc:metal/boots/blue_steel"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/red_steel",
+      "tfc:metal/chestplate/red_steel",
+      "tfc:metal/greaves/red_steel",
+      "tfc:metal/boots/red_steel"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/mithril",
+      "tfc:metal/chestplate/mithril",
+      "tfc:metal/greaves/mithril",
+      "tfc:metal/boots/mithril"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/invar",
+      "tfc:metal/chestplate/invar",
+      "tfc:metal/greaves/invar",
+      "tfc:metal/boots/invar"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/aluminium",
+      "tfc:metal/chestplate/aluminium",
+      "tfc:metal/greaves/aluminium",
+      "tfc:metal/boots/aluminium"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/cobalt",
+      "tfc:metal/chestplate/cobalt",
+      "tfc:metal/greaves/cobalt",
+      "tfc:metal/boots/cobalt"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/manyullyn",
+      "tfc:metal/chestplate/manyullyn",
+      "tfc:metal/greaves/manyullyn",
+      "tfc:metal/boots/manyullyn"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/osmium",
+      "tfc:metal/chestplate/osmium",
+      "tfc:metal/greaves/osmium",
+      "tfc:metal/boots/osmium"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/titanium",
+      "tfc:metal/chestplate/titanium",
+      "tfc:metal/greaves/titanium",
+      "tfc:metal/boots/titanium"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/tungsten",
+      "tfc:metal/chestplate/tungsten",
+      "tfc:metal/greaves/tungsten",
+      "tfc:metal/boots/tungsten"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/tungsten_steel",
+      "tfc:metal/chestplate/tungsten_steel",
+      "tfc:metal/greaves/tungsten_steel",
+      "tfc:metal/boots/tungsten_steel"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "conarm:helmet",
+      "conarm:chestplate",
+      "conarm:leggings",
+      "conarm:boots"
+    ],
+    "modifier": -1
+  }
+]

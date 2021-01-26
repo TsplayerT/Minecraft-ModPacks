@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:leaves:3"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 2
+            }
+          },
+          "item": {
+            "items": [
+              "tfc:wood/sapling/kapok"
+            ]
+          }
+        }
+      ],
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:leaves:3"
+          ]
+        }
+      },
+      "replaceStrategy": "ADD",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 2
+            }
+          },
+          "item": {
+            "items": [
+              "minecraft:stick"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

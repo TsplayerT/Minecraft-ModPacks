@@ -1,0 +1,81 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:emerald_ore"
+          ]
+        },
+        "drops": {
+          "drops": [
+            "minecraft:emerald"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 50
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/emerald"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 20
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/emerald:1"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 15
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/emerald:2"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 10
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/emerald:3"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 5
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/emerald:4"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

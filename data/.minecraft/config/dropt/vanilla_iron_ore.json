@@ -1,0 +1,69 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:iron_ore"
+          ]
+        },
+        "drops": {
+          "drops": [
+            "minecraft:iron_ore"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 45
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:ore/small/hematite"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 30
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:ore/hematite:1"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 20
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:ore/hematite"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 5
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:ore/hematite:2"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

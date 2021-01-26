@@ -1,0 +1,81 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:diamond_ore"
+          ]
+        },
+        "drops": {
+          "drops": [
+            "minecraft:diamond"
+          ]
+        }
+      },
+      "replaceStrategy": "REPLACE_ITEMS",
+      "drops": [
+        {
+          "selector": {
+            "weight": {
+              "value": 50
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/diamond"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 20
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/diamond:1"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 15
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/diamond:2"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 10
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/diamond:3"
+            ]
+          }
+        },
+        {
+          "selector": {
+            "weight": {
+              "value": 5
+            }
+          },
+          "item": {
+            "items" : [
+              "tfc:gem/diamond:4"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

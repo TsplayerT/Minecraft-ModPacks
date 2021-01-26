@@ -1,0 +1,38 @@
+{
+	"name" : "tfcr:tower",
+	"tower" : {
+		"type" : "ENIKO",
+		"theme" : {
+			"primary" : {
+				"walls" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{"type" : "METABLOCK", "data" : {"name" : "tfc:bricks/gneiss"}, "weight" : 5},
+						{"type" : "METABLOCK", "data" : {"name" : "contenttweaker:road_gneiss"}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "tfc:smooth/gneiss"}, "weight" : 2},
+						{"type" : "METABLOCK", "data" : {"name" : "tfc:bricks/diorite", "meta" : 1}, "weight" : 1},
+						{"type" : "METABLOCK", "data" : {"name" : "tfc:bricks/gneiss"}, "weight" : 7},
+						{"type" : "METABLOCK", "data" : {"name" : "contenttweaker:road_diorite"}, "weight" : 1}
+					]
+				},
+				"walls" : {"type" : "METABLOCK", "data" : {"name" : "tfc:bricks/gneiss"}},
+				"pillar" : {"type" : "METABLOCK", "data" : {"name" : "contenttweaker:pillar_gneiss"}},
+				"stair" : {"type" : "METABLOCK", "data" : {"name" : "tfc:stairs/bricks/gneiss"}}
+			},
+			"secondary" : {
+				"walls" : {
+					"type" : "METABLOCK",
+					"data" : {"name" : "tfc:wood/planks/hickory", "meta" : 0}
+				},
+				"pillar" : {
+					"type" : "METABLOCK",
+					"data" : {"name" : "tfc:wood/log/hickory", "meta" : 5}
+				},
+				"stair" : {
+					"type" : "METABLOCK",
+					"data" : {"name" : "tfc:stairs/wood/hickory"}
+				}
+			}
+		}
+	}
+}

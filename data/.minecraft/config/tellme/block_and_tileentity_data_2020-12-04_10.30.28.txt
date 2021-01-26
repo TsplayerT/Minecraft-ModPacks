@@ -1,0 +1,16 @@
+tfc:fluid/hot_water (tfc:fluid/hot_water - 1293:0) no TileEntity
+Full block state: tfc:fluid/hot_water[level=0]
+Hardness: 100.0000, Explosion resistance: 100.0000, Material: WATER
+Block class: net.dries007.tfc.objects.blocks.BlockFluidHotWater
+IBlockState properties, including getActualState():
+PropertyInteger{name=level, clazz=class java.lang.Integer, values=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}: 0
+IExtendedBlockState properties:
+PropertyFloat{name=flow_direction, clazz=class java.lang.Float, value=Optional[-1000.0]}
+PropertyFloat{name=level_corner_0, clazz=class java.lang.Float, value=Optional[0.88888896]}
+UnlistedPropertyBool{name=side_overlay_0, clazz=class java.lang.Boolean, value=Optional[true]}
+PropertyFloat{name=level_corner_1, clazz=class java.lang.Float, value=Optional[0.88888896]}
+UnlistedPropertyBool{name=side_overlay_1, clazz=class java.lang.Boolean, value=Optional[true]}
+PropertyFloat{name=level_corner_2, clazz=class java.lang.Float, value=Optional[0.88888896]}
+UnlistedPropertyBool{name=side_overlay_2, clazz=class java.lang.Boolean, value=Optional[true]}
+PropertyFloat{name=level_corner_3, clazz=class java.lang.Float, value=Optional[0.88888896]}
+UnlistedPropertyBool{name=side_overlay_3, clazz=class java.lang.Boolean, value=Optional[true]}

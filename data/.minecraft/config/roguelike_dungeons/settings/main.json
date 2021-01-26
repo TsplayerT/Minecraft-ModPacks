@@ -1,0 +1,21 @@
+{
+	"name" : "tfcr:main",
+	"exclusive" : true,
+	"criteria" : {
+		"biomeTypes" : [
+			"PLAINS",
+			"HILLS",
+			"SWAMP",
+			"MOUNTAIN"
+		]
+	},
+	"inherit" : [
+		"tfcr:tower",
+		"tfcr:layout",
+		"tfcr:rooms",
+		"tfcr:segments",
+		"tfcr:theme",
+		"tfcr:loot",
+		"tfcr:filters"
+	]
+}

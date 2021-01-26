@@ -1,0 +1,26 @@
+Imbuement Altar (ebwizardry:imbuement_altar - 4423:0) has a TileEntity
+Full block state: ebwizardry:imbuement_altar[active=false]
+Hardness: -1.0000, Explosion resistance: 3600000.0000, Material: ROCK
+Block class: electroblob.wizardry.block.BlockImbuementAltar
+IBlockState properties, including getActualState():
+PropertyBool{name=active, clazz=class java.lang.Boolean, values=[true, false]}: false
+TileEntity class: electroblob.wizardry.tileentity.TileEntityImbuementAltar
+
+TileEntity NBT (from TileEntity#writeToNBT()):
+TAG_Compound (10) ('')
+{
+    TAG_Compound (10) ('item')
+    {
+        TAG_String (8) ('id'): "minecraft:air"
+        TAG_Byte (1) ('Count'): 1
+        TAG_Short (2) ('Damage'): 0
+    }
+    TAG_Compound (10) ('ForgeData')
+    {
+    }
+    TAG_Int (3) ('imbuementTimer'): 0
+    TAG_Int (3) ('x'): -346
+    TAG_Int (3) ('y'): 144
+    TAG_Int (3) ('z'): 0
+    TAG_String (8) ('id'): "ebwizardry:imbuement_altar"
+}
