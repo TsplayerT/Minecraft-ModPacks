@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y,variant=olive":	{ "model": "cuisine:log_citrus" },
+		"axis=z,variant=olive":	{ "model": "cuisine:log_citrus", "x": 90 },
+		"axis=x,variant=olive":	{ "model": "cuisine:log_citrus", "x": 90, "y": 90 },
+		"axis=none,variant=olive":	{ "model": "cuisine:log_citrus_bark" }
+	}
+}

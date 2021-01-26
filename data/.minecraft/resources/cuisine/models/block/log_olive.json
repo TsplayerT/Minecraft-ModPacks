@@ -1,0 +1,12 @@
+{
+
+	"parent": "block/cube_column",
+
+	"textures": {
+
+		"end": "cuisine:blocks/log_citrus_top",
+		"side": "cuisine:blocks/log_citrus"
+
+	}
+
+}
