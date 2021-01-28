@@ -1,5 +1,7 @@
-#### Tamanho: ± ??? MB  
+#### Tamanho: ± 254 MB  
   
+Fonte: https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reloaded
+
 ---  
   
 ### Mods  
