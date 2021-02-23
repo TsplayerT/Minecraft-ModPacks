@@ -1,0 +1,135 @@
+key.attack
+key.use
+key.forward
+key.left
+key.back
+key.right
+key.jump
+key.sneak
+key.sprint
+key.drop
+key.inventory
+key.chat
+key.playerlist
+key.pickItem
+key.command
+key.screenshot
+key.togglePerspective
+key.smoothCamera
+key.fullscreen
+key.spectatorOutlines
+key.swapHands
+key.saveToolbarActivator
+key.loadToolbarActivator
+key.advancements
+key.hotbar.1
+key.hotbar.2
+key.hotbar.3
+key.hotbar.4
+key.hotbar.5
+key.hotbar.6
+key.hotbar.7
+key.hotbar.8
+key.hotbar.9
+keybind.baublesinventory
+chineseworkshop.keybind.select
+Open Menu
+Toggle Freeze Effect
+Enable/Disable
+Kill Particles
+Blacklist Block
+key.conarm.toggle_helm.desc
+key.conarm.toggle_chest.desc
+key.conarm.toggle_leg.desc
+enderutilities.key.activate_unselected
+enderutilities.key.togglemode
+key.findme.search
+key.inventorysorter.sort
+key.inventorysorter.itemout
+key.inventorysorter.itemin
+key.ij.engine
+key.ij.hover
+neat.keybind.toggle
+oreexcavation.key.excavate
+oreexcavation.key.shape
+prestige.key.open
+pe.key.armor_toggle
+pe.key.charge
+pe.key.extra_function
+pe.key.fire_projectile
+pe.key.mode
+key.toastcontrol.clear
+vc.key.moveForward
+vc.key.moveBack
+vc.key.moveLeft
+vc.key.moveRight
+vc.key.moveUp
+vc.key.moveDown
+vc.key.openInventory
+vc.key.dropbomb
+walljump.key.walljump
+smoothfont.key.guiOpen
+key.primitive.cyclerecipes.desc
+key.primitive.showrecipe.desc
+key.primitive.craftstack.desc
+key.jei.toggleOverlay
+key.jei.focusSearch
+key.jei.toggleCheatMode
+key.jei.showRecipe
+key.jei.showUses
+key.jei.recipeBack
+key.jei.previousPage
+key.jei.nextPage
+key.jei.bookmark
+key.jei.toggleBookmarkOverlay
+waila.keybind.wailaconfig
+waila.keybind.wailadisplay
+waila.keybind.liquid
+waila.keybind.recipe
+waila.keybind.usage
+key.carry.desc
+key.clienttweaks.disable_step_assist
+key.clienttweaks.hide_offhand_item
+key.cofh.multimode
+key.keyExtraInvo
+key.keyWheel
+key.keyExtraCraftin
+key.integrateddynamics.logic_programmer_focus_search
+key.integrateddynamics.logic_programmer_open_rename
+Quick Commands
+key.clipboardPaste
+tombstone.message.knowledge_of_death
+key.craftingGrid
+Open Matter Scanner GUI
+Android Ability key
+Android Switch Ability key
+key.journeymap.zoom_in
+key.journeymap.zoom_out
+key.journeymap.minimap_type
+key.journeymap.minimap_preset
+key.journeymap.create_waypoint
+key.journeymap.fullscreen_create_waypoint
+key.journeymap.fullscreen_chat_position
+key.journeymap.map_toggle_alt
+key.journeymap.fullscreen_waypoints
+key.journeymap.minimap_toggle_alt
+key.journeymap.fullscreen_options
+key.journeymap.fullscreen.north
+key.journeymap.fullscreen.south
+key.journeymap.fullscreen.east
+key.journeymap.fullscreen.west
+of.key.zoom
+Change Caster Focus
+Misc Caster Toggle
+key.moreoverlays.lightoverlay.desc
+key.moreoverlays.chunkbounds.desc
+Difficulty Meter - Show
+Difficulty Meter - Show Always
+key.dismount
+key.narrator
+key.toggle_focus.desc
+key.jei.toggleEditMode
+key.description.jump_to_bar
+key.description.enable_bar
+key.description.place_item
+key.journeymap.toggle_waypoints
