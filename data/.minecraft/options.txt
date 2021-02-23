@@ -15,9 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:false
-resourcePacks:["Affinity-HD-Bundle-x64.zip"]
 incompatibleResourcePacks:[]
-lastServer:4.tcp.ngrok.io:15673
 lang:pt_br
 chatVisibility:0
 chatColors:true
