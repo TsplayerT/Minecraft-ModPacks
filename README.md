@@ -1,4 +1,5 @@
-#### Tamanho: ± 315 MB  
+#### Tamanho: ± 200 MB  
+#### Versão do Minecraft: 1.12.2
   
 ---  
   
