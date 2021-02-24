@@ -153,105 +153,106 @@
 • XL-Food-Mod-1.12.2-1.9.2.jar  
 • xnet-1.12-1.8.2.jar  
 • zenstages-0.5.0.jar  
-
-<details>
-<summary>### Mods desativados</summary>
-<p>
-Advancement_Book-1.12-1.0.3.jar
-AnimalCrops-1.12.2-0.2.0.jar</p>
-AromaBackup-1.12.2-3.0.0.0.b132.jar</details>
-asd.txt
-BarrelsDrumsStorageAndMore-0.0.24.jar
-bedpatch-2.2-1.12.2.jar
-BetterAdvancements-1.12.2-0.1.0.77.jar
-bonsaitrees-1.1.4-b170.jar
-BouncyCreepers-0.0.4.jar
-BuildingGadgets-2.8.3.jar
-CarryOn MC1.12.2 v1.12.3.jar
-Ceramics-1.12-1.3.7.jar
-ChickenChunks-1.12.2-2.4.2.74-universal.jar
-ChineseWorkshop-1.12.2_1.2.6.jar
-Chisel-MC1.12.2-1.0.2.45.jar
-chiselsandbits-14.33.jar
-compactmachines3-1.12.2-3.0.18-b278.jar
-CompactStorage-3.1-12.jar
-ComPatchedStorage-1.12.2-1.6.0.jar
-conarm-1.12.2-1.2.5.9.jar
-CustomMainMenu-MC1.12.2-2.0.9.1.jar
-Cyclic-1.12.2-1.20.3.jar
-DefaultOptions_1.12.2-9.2.8.jar
-DragonMurder-1.12.2-1.0.1.jar
-ElevatorMod-1.12.2-1.4.2.jar
-EnderStorage-1.12.2-2.4.6.137-universal.jar
-ExtraCells-1.12.2-2.6.5.jar
-FancyBlockParticles-1.12.x-2.4.1.jar
-FarmingForBlockheads_1.12.2-3.1.28.jar
-FastFurnace-1.12.2-1.3.1.jar
-FastWorkbench-1.12.2-1.7.3.jar
-FenceOverhaul-1.3.4.jar
-findme-1.12.2-1.1.0-8.jar
-fluxnetworks-1.12.2-4.0.14-31.jar
-ForgeMultipart-1.12.2-2.6.2.83-universal.jar
-Headcrumbs-1.12.2-2.0.5.17.jar
-HorsePower-1.12.2-2.6.4.74.jar
-HuntingDimension-1.12.2-1.0.42.jar
-HurtAnimationRemover-1.12.2-1.0.0.jar
-HydroGel-1.12.2-1.1.0.jar
-iChunUtil-1.12.2-7.1.4.jar
-ifoccompat-0.1.jar
-IntegratedDynamics-1.12.2-1.1.6.jar
-IntegratedTunnels-1.12.2-1.6.11.jar
-IronJetpacks-1.12-2-1.1.0.jar
-KleeSlabs_1.12.2-5.4.12.jar
-LimitlessStructureBlocks-1.12.2-1.1.0.jar
-LoadingScreens-1.12.2-0.3.1.jar
-lostcities-1.12-2.0.22.jar
-malisiscore-1.12.2-6.5.1.jar
-malisisdoors-1.12.2-7.3.0.jar
-MCMultiPart-2.5.3.jar
-Mekanism-1.12.2-9.8.3.390.jar
-MekanismGenerators-1.12.2-9.8.3.390.jar
-More-Cauldrons-1.4.6.jar
-MoreBuckets-1.12.2-1.0.4.jar
-mpbasic-1.12.2-1.4.11.jar
-MPUtils-1.12.2-1.5.7.jar
-mystcraft-1.12.2-0.13.7.06.jar
-Neat 1.4-17.jar
-Parabox-1.12.2-2.0.0.jar
-PortalGun-1.12.2-7.1.0.jar
-practicallogistics2-1.12.2-3.0.8-11.jar
-Prestige-1.12.2-1.1.58.jar
-primitivecrafting-1.12.2-1.4.3.6.jar
-ProjectE-1.12.2-PE1.4.1.jar
-ProportionalDestructionParticles-1.12.2-1.2.4.jar
-realfilingcabinet-1.12-0.2.0.21.jar
-reauth-3.6.0.jar
-ResourceLoader-MC1.12.1-1.5.3.jar
-rftoolspower-1.12-1.2.0.jar
-simplegenerators-1.12.2-2.0.20.2.jar
-SimpleStorageNetwork-1.12.2-1.7.10.jar
-SkyGrid-1.1.7.jar
-Slab_Machines-1.0.7.jar
-Snad-1.12.1-1.7.09.16a.jar
-sonarcore-1.12.2-5.0.19-20.jar
-SqueezerPatch-1.12.2-1.0.0.jar
-supersoundmuffler-revived_1.12.2_1.0.2.10.jar
-Sync-1.12.2-7.1.0.jar
-TallGates-1.12.2-1.0.0.1.jar
-TelePastries-0.3.4.jar
-tinyprogressions-1.12.2-3.3.34-Release.jar
-TipTheScales-1.12.2-1.0.4.jar
-togetherforever-1.12.2-1.0.12-22.jar
-torchmaster_1.12.2-1.8.1.81.jar
-Translocators-1.12.2-2.5.2.81-universal.jar
-TreeGrowingSimulator2017-1.0.1.jar
-Triumph-1.12.2-3.19.2.jar
-twilightforest-1.12.2-3.10.1013-universal.jar
-Twitchcrumbs_1.12.2-3.0.4.jar
-Uppers-0.0.6.jar
-ViesCraft-1.12.2-5.9.16.jar
-Waddles-1.12.2-0.6.0.jar
-walljump-1.12.2-1.3.2.jar
-witherCrumbs-1.12.2-0.11.jar
-YNot-0.2.4.jar
-yoyos_1.12.2-1.3.3.25.jar
+  
+<details>  
+<summary>### Mods desativados</summary>  
+<p>  
+• Advancement_Book-1.12-1.0.3.jar  
+• AnimalCrops-1.12.2-0.2.0.jar</p>  
+• AromaBackup-1.12.2-3.0.0.0.b132.jar</details>  
+• BarrelsDrumsStorageAndMore-0.0.24.jar  
+• bedpatch-2.2-1.12.2.jar  
+• BetterAdvancements-1.12.2-0.1.0.77.jar  
+• bonsaitrees-1.1.4-b170.jar  
+• BouncyCreepers-0.0.4.jar  
+• BuildingGadgets-2.8.3.jar  
+• CarryOn MC1.12.2 v1.12.3.jar  
+• Ceramics-1.12-1.3.7.jar  
+• ChickenChunks-1.12.2-2.4.2.74-universal.jar  
+• ChineseWorkshop-1.12.2_1.2.6.jar  
+• Chisel-MC1.12.2-1.0.2.45.jar  
+• chiselsandbits-14.33.jar  
+• compactmachines3-1.12.2-3.0.18-b278.jar  
+• CompactStorage-3.1-12.jar  
+• ComPatchedStorage-1.12.2-1.6.0.jar  
+• conarm-1.12.2-1.2.5.9.jar  
+• CustomMainMenu-MC1.12.2-2.0.9.1.jar  
+• Cyclic-1.12.2-1.20.3.jar  
+• DefaultOptions_1.12.2-9.2.8.jar  
+• DragonMurder-1.12.2-1.0.1.jar  
+• ElevatorMod-1.12.2-1.4.2.jar  
+• EnderStorage-1.12.2-2.4.6.137-universal.jar  
+• ExtraCells-1.12.2-2.6.5.jar  
+• FancyBlockParticles-1.12.x-2.4.1.jar  
+• FarmingForBlockheads_1.12.2-3.1.28.jar  
+• FastFurnace-1.12.2-1.3.1.jar  
+• FastWorkbench-1.12.2-1.7.3.jar  
+• FenceOverhaul-1.3.4.jar  
+• findme-1.12.2-1.1.0-8.jar  
+• fluxnetworks-1.12.2-4.0.14-31.jar  
+• ForgeMultipart-1.12.2-2.6.2.83-universal.jar  
+• Headcrumbs-1.12.2-2.0.5.17.jar  
+• HorsePower-1.12.2-2.6.4.74.jar  
+• HuntingDimension-1.12.2-1.0.42.jar  
+• HurtAnimationRemover-1.12.2-1.0.0.jar  
+• HydroGel-1.12.2-1.1.0.jar  
+• iChunUtil-1.12.2-7.1.4.jar  
+• ifoccompat-0.1.jar  
+• IntegratedDynamics-1.12.2-1.1.6.jar  
+• IntegratedTunnels-1.12.2-1.6.11.jar  
+• IronJetpacks-1.12-2-1.1.0.jar  
+• KleeSlabs_1.12.2-5.4.12.jar  
+• LimitlessStructureBlocks-1.12.2-1.1.0.jar  
+• LoadingScreens-1.12.2-0.3.1.jar  
+• lostcities-1.12-2.0.22.jar  
+• malisiscore-1.12.2-6.5.1.jar  
+• malisisdoors-1.12.2-7.3.0.jar  
+• MCMultiPart-2.5.3.jar  
+• Mekanism-1.12.2-9.8.3.390.jar  
+• MekanismGenerators-1.12.2-9.8.3.390.jar  
+• More-Cauldrons-1.4.6.jar  
+• MoreBuckets-1.12.2-1.0.4.jar  
+• mpbasic-1.12.2-1.4.11.jar  
+• MPUtils-1.12.2-1.5.7.jar  
+• mystcraft-1.12.2-0.13.7.06.jar  
+• Neat 1.4-17.jar  
+• Parabox-1.12.2-2.0.0.jar  
+• PortalGun-1.12.2-7.1.0.jar  
+• practicallogistics2-1.12.2-3.0.8-11.jar  
+• Prestige-1.12.2-1.1.58.jar  
+• primitivecrafting-1.12.2-1.4.3.6.jar  
+• ProjectE-1.12.2-PE1.4.1.jar  
+• ProportionalDestructionParticles-1.12.2-1.2.4.jar  
+• realfilingcabinet-1.12-0.2.0.21.jar  
+• reauth-3.6.0.jar  
+• ResourceLoader-MC1.12.1-1.5.3.jar  
+• rftoolspower-1.12-1.2.0.jar  
+• simplegenerators-1.12.2-2.0.20.2.jar  
+• SimpleStorageNetwork-1.12.2-1.7.10.jar  
+• SkyGrid-1.1.7.jar  
+• Slab_Machines-1.0.7.jar  
+• Snad-1.12.1-1.7.09.16a.jar  
+• sonarcore-1.12.2-5.0.19-20.jar  
+• SqueezerPatch-1.12.2-1.0.0.jar  
+• supersoundmuffler-revived_1.12.2_1.0.2.10.jar  
+• Sync-1.12.2-7.1.0.jar  
+• TallGates-1.12.2-1.0.0.1.jar  
+• TelePastries-0.3.4.jar  
+• tinyprogressions-1.12.2-3.3.34-Release.jar  
+• TipTheScales-1.12.2-1.0.4.jar  
+• togetherforever-1.12.2-1.0.12-22.jar  
+• torchmaster_1.12.2-1.8.1.81.jar  
+• Translocators-1.12.2-2.5.2.81-universal.jar  
+• TreeGrowingSimulator2017-1.0.1.jar  
+• Triumph-1.12.2-3.19.2.jar  
+• twilightforest-1.12.2-3.10.1013-universal.jar  
+• Twitchcrumbs_1.12.2-3.0.4.jar  
+• Uppers-0.0.6.jar  
+• ViesCraft-1.12.2-5.9.16.jar  
+• Waddles-1.12.2-0.6.0.jar  
+• walljump-1.12.2-1.3.2.jar  
+• witherCrumbs-1.12.2-0.11.jar  
+• YNot-0.2.4.jar  
+• yoyos_1.12.2-1.3.3.25.jar  
+ </p>  
+</details>  
