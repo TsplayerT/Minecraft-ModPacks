@@ -154,12 +154,13 @@
 • xnet-1.12-1.8.2.jar  
 • zenstages-0.5.0.jar  
   
-<details>  
-<summary>### Mods desativados</summary>  
-<p>  
+<details>
+<summary>Mods removidos</summary>
+<p>
+
 • Advancement_Book-1.12-1.0.3.jar  
-• AnimalCrops-1.12.2-0.2.0.jar</p>  
-• AromaBackup-1.12.2-3.0.0.0.b132.jar</details>  
+• AnimalCrops-1.12.2-0.2.0.jar  
+• AromaBackup-1.12.2-3.0.0.0.b132.jar  
 • BarrelsDrumsStorageAndMore-0.0.24.jar  
 • bedpatch-2.2-1.12.2.jar  
 • BetterAdvancements-1.12.2-0.1.0.77.jar  
@@ -254,5 +255,6 @@
 • witherCrumbs-1.12.2-0.11.jar  
 • YNot-0.2.4.jar  
 • yoyos_1.12.2-1.3.3.25.jar  
- </p>  
-</details>  
+
+</p>
+</details>
