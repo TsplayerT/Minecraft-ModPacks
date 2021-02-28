@@ -1,4 +1,4 @@
-### Tamanho: ±   
+### Tamanho: ± 140 MB  
   
 ### Versão do Minecraft: 1.12.2  
   
@@ -6,6 +6,7 @@
   
 ### Mods  
 • Baubles-1.12-1.5.2.jar  
+• Decocraft-2.6.3_1.12.2.jar  
 • DummyCoreUnofficial-2.4.112.5.jar  
 • DynamicTrees-1.12.2-0.9.21.jar  
 • DynamicTreesTC-1.12.2-1.4.2.jar  
@@ -28,7 +29,7 @@
 • Mantle-1.12-1.3.3.55.jar  
 • MouseTweaks-2.10-mc1.12.2.jar  
 • OpenComputers-MC1.12.2-1.7.5.192.jar  
-• OptiFine-OptiFine-1.12.2_HD_U_G5_pre1.jar  
+• PTRLib-1.0.4.jar  
 • rocksalt-1.0.3.jar  
 • spark-forge.jar  
 • tc6aspects4jei-0.0.2a.jar  
@@ -52,7 +53,6 @@
 • TinkersComplement-1.12.2-0.4.3.jar  
 • TinkersExtras-1.12.2-1.1.0.jar  
 • tinkersjei-1.2.jar  
-• tlskincape_1.12.2-1.4.jar  
 • WailaHarvestability-mc1.12-1.1.12.jar  
 • waterflasks-1.8.jar  
 • Wawla-1.12.2-2.6.275.jar  
